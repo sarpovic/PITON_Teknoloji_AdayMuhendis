@@ -1,2 +1,2 @@
-# PITON_Teknoloji_AdayMuhendis
-PITON Teknoloji Aday Mühendis Taskı
+# PITON_Teknoloji_Task
+person_tracking.py dosyasını çalıştırın.
